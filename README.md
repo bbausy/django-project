@@ -1,1 +1,1 @@
-"Django Foto§raf PaylaŸm Sitesi" 
+"Django FotoÄŸraf PaylÅŸÄ±m Sitesi" 
