@@ -1,1 +1,1 @@
-"Django Fotoğraf Paylşım Sitesi" 
+"Django Fotoğraf Paylaşım Sitesi" 
